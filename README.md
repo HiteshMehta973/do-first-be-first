@@ -1,3 +1,3 @@
 # do-first-be-first
 This is my first repository
-Author - Hitesh Mehta
+Author - Hitesh (gehu)
